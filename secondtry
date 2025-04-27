@@ -15,7 +15,7 @@
         padding: 20px;
         color: red;
         font-size: 60px;"
-  >好好学习，天天向上。
+  >除非是index文件名，否则具体指明二级路径。
    </div>
  </body>
 </html>
